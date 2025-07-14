@@ -16,9 +16,6 @@ A modern, responsive dashboard for SACCO (Savings and Credit Cooperative Organiz
 - Tailwind CSS 3 (dark mode enabled)
 - Recharts
 
-## 🖼️ Preview
-![Dashboard Screenshot](screenshot.png)
-
 ## ⚡ Getting Started
 
 ### 1. Clone the repository
